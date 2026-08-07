@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emreyuce90.github.io/readme-ndfhd4/sitemap.xml
